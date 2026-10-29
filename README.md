@@ -3,7 +3,7 @@
 광고 없는 가벼운 Windows 캡처 프로그램 · 만든 사람 겨울작가 (AI 수익화 전문) · https://theaiwk.com
 
 ## 다운로드
-**[바로캡처 최신 버전 받기 (BaroCapture_1.9.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.9.zip)**
+**[바로캡처 최신 버전 받기 (BaroCapture_1.10.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.10.zip)**
 
 ## 📖 그림으로 된 사용 안내
 https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/edit?usp=sharing
@@ -14,6 +14,11 @@ https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/
 3. **바로캡처.exe** 두 번 누르기
 4. 파란 창 "Windows의 PC 보호"가 뜨면 **[추가 정보] → [실행]** (처음 한 번만)
 5. 처음 화면에서 캡처 키를 고르고 한 번 눌러 "잘 돼요!" 확인
+
+## 이미 받으신 분: 새 버전으로 바꾸기
+1. 시계 옆 바로캡처 아이콘 오른쪽 클릭 → **[종료]**
+2. 새 zip 안의 **바로캡처.exe**를 예전 바로캡처 폴더에 넣고 **덮어쓰기**
+3. 다시 켜기 (설정과 캡처는 그대로 남아요)
 
 ## 쓰는 법
 - PrtSc → 드래그: 찍고 바로 복사, Ctrl+V로 붙여넣기
