@@ -3,7 +3,7 @@
 광고 없는 가벼운 Windows 캡처 프로그램 · 만든 사람 겨울작가 (AI 수익화 전문) · https://theaiwk.com
 
 ## 다운로드
-**[바로캡처 최신 버전 받기 (BaroCapture_1.7.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.7.zip)**
+**[바로캡처 최신 버전 받기 (BaroCapture_1.8.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.8.zip)**
 
 ## 처음 실행하는 법
 1. 받은 압축파일을 오른쪽 버튼 → **[모두 압축 풀기]**
