@@ -25,6 +25,6 @@ https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/
 - PrtSc → Enter: 전체 화면 / PrtSc → S: 스크롤 캡처 (끝까지 내려간 뒤 "띠링" 소리가 날 때까지 몇 초 기다리기)
 - 자세한 사용법은 압축파일 안의 **바로캡처_사용안내.pdf**
 
-Windows 10 / 11 · 추가 설치 없음 · 인터넷에 아무것도 올리지 않아요
+Windows 10 / 11 · 추가 설치 없음 · 캡처·개인 정보는 어디에도 보내지 않아요 (1.20부터 새 버전 번호만 하루 한 번 확인, 설정에서 끄기)
 
 오류 신고: 프로그램 안의 [오류 신고] 또는 theaiwks@gmail.com
