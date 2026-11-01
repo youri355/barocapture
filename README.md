@@ -3,7 +3,7 @@
 광고 없는 가벼운 Windows 캡처 프로그램 · 만든 사람 겨울작가 (AI 수익화 전문) · https://theaiwk.com
 
 ## 다운로드
-**[바로캡처 최신 버전 받기 (BaroCapture_1.25.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.25.zip)**
+**[바로캡처 최신 버전 받기 (BaroCapture_1.27.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.27.zip)**
 
 ## 📖 그림으로 된 사용 안내
 https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/edit?usp=sharing
@@ -28,3 +28,6 @@ https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/
 Windows 10 / 11 · 추가 설치 없음 · 캡처·개인 정보는 어디에도 보내지 않아요 (1.20부터 새 버전 번호만 하루 한 번 확인, 1.21부터 [업데이트]를 누르면 알아서 바뀜, 설정에서 끄기)
 
 오류 신고: 프로그램 안의 [오류 신고] 또는 theaiwks@gmail.com
+
+## 1.27 날짜 도장
+편집 창 [오늘 날짜 넣기] 또는 설정 [캡처할 때 오늘 날짜 자동 넣기]를 사용하세요. PC 캡처 날짜를 반투명 도장으로 표시하며, 진위 인증이나 위조 차단 기능은 아닙니다.
