@@ -3,7 +3,7 @@
 광고 없는 가벼운 Windows 캡처 프로그램 · 만든 사람 겨울작가 (AI 수익화 전문) · https://theaiwk.com
 
 ## 다운로드
-**[바로캡처 최신 버전 받기 (BaroCapture_1.30.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.30.zip)**
+**[바로캡처 최신 버전 받기 (BaroCapture_1.32.zip)](https://github.com/youri355/barocapture/releases/latest/download/BaroCapture_1.32.zip)**
 
 ## 📖 그림으로 된 사용 안내
 https://docs.google.com/document/d/1SZKt4QaRmqhfKxmfuB67iHlLGq-DSoF0aDTVc9b6BnI/edit?usp=sharing
@@ -38,3 +38,6 @@ Windows 10 / 11 · 추가 설치 없음 · 캡처·개인 정보는 어디에도
 최근 목록에서 [여러 장 합치기]로 2~20장을 선택순서대로 세로·가로로 이어 별도 PNG 저장·복사합니다. 원본은 유지됩니다.
 [글자 복사]로 그림 전체 또는 드래그 영역을 읽고 결과를 수정해 복사합니다. Windows 내장 한국어 OCR을 사용하며 외부로 보내지 않습니다. 한국어 인식 기능이 없으면 안내하며, 오인식할 수 있으니 확인하세요.
 기존 날짜 도장·자동 입력 등 기능은 유지됩니다.
+
+## 1.32 캡처 시간 표시
+새 캡처가 끝난 PC 지역 시각을 날짜 아래 HH:mm:ss(24시간·초)로 표시합니다. 자동 입력을 끈 뒤 나중에 버튼을 눌러도 원래 시각이며 재열기·편집·폴더 이동에도 유지됩니다. 시간 없는 기존 캡처는 날짜만 유지하고 시간을 추측하지 않습니다. PC시계 변경·외부 편집을 막지 못하며 진위 인증 기능은 아닙니다. 합치기·OCR는 1.30과 같습니다.
